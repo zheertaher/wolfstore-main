@@ -1,0 +1,31 @@
+:root {
+  --black: #202020;
+  --black-2: #171717;
+  --white: #FFFFFF;
+  --gray: #EDF0F4;
+  --gray-2: #F5F5F5;
+  --gray-3: #CCCCCC;
+  --blue: #007fff;
+  --red: #ff0000;
+  --LightYellow: #FFFFE0;
+  --LightGoldenRodYellow: #FAFAD2;
+  --yellow: #ffbf00;
+  --darkgreen: #69d100;
+  --deepblue: #00bfff;
+  --mangotango: #ff8243;
+
+}
+
+
+
+.btn3 {
+  background-color: var(--mangotango);
+  box-shadow: #00bfff 0px 0px 20px 0px;
+  color: var(--white);
+  padding: 6px 30px 14px 18px;
+  text-decoration: left;
+  border-radius: 19px;
+  float: right;
+  margin-right: 0px;
+  margin-top: 0px;
+}
